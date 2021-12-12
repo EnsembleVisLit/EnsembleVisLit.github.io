@@ -85,23 +85,6 @@
             "volume": "20",
             "year": "2014"
         },
-        "borkin2011evaluation": {
-            "author": "Borkin, Michelle and Gajos, Krzysztof and Peters, Amanda and Mitsouras, Dimitrios and Melchionna, Simone and Rybicki, Frank and Feldman, Charles and Pfister, Hanspeter",
-            "data_type": "field",
-            "attribute_type": "quantitative",
-            "guideline_acc": "Localization - Other Target Attributes: Participants correctly identified more of low ESS regions (task in Section 6) in 2D images than in 3D.// Localization - Other Target Attributes: For 2D images, participants in the diverging condition were more accurate than the participants in the rainbow condition to identify low ESS regions (task in Section 6).// Localization - Other Target Attributes: For 3D images, the diverging color map was more accurate than rainbow color map to identify low ESS regions (task in Section 6).",
-            "guideline_time": "Localization - Other Target Attributes: Participants spent less time per image in the 2D condition than in the 3D condition to identify low ESS regions (task in Section 6).// Localization - Other Target Attributes: Participants spent less time on images using the rainbow color map than on images using the diverging color map in the 3D condition to identify low ESS regions (task in Section 6).",
-            "guideline_user": "None",
-            "journal": "IEEE Transactions on Visualization and Computer Graphics",
-            "keywords": "localization:other target attributes, identification:None, comparison:None, association:None, numeration:None",
-            "number": "12",
-            "pages": "2479--2488",
-            "publisher": "IEEE",
-            "title": "Evaluation of artery visualizations for heart disease diagnosis",
-            "type": "article",
-            "volume": "17",
-            "year": "2011"
-        },
         "brehmer2018visualizing": {
             "author": "Brehmer, Matthew and Lee, Bongshin and Isenberg, Petra and Choe, Eun Kyoung",
             "data_type": "table",
