@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'Who, Why, What, Where, When? Summarizing Evaluation Results of Ensemble Visualizations';
+var title = 'What Do We Know about Ensemble Perception from IEEE VIS Evaluation Papers? A Survey of Design Guidelines';
 
 /**
  * Relative path to the data directory
