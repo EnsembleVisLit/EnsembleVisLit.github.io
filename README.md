@@ -1,4 +1,4 @@
-## An Exploration Tool for “Who, What, When, Why, Where? Summarizing Evaluation Results of Ensemble Visualizations”
+## An Exploration Tool for “What Do We Know about Ensemble Perception from IEEE VIS Evaluation Papers? A Survey of Design Guidelines”
 
 
 This system is based on the following work:
